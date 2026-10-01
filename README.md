@@ -248,7 +248,13 @@ Initial features included:
 
 * `trip_distance`
 * `trip duration min`
-
+* `passenger_count`
+* `pickup hour`
+* `pickup_weekday`
+* `PULocationID`
+* `DOLocationID`
+* `payment_type`
+* `surge_multiplier`
 Additional experiments explored other relevant features such as:
 
 * Passenger count
