@@ -222,22 +222,6 @@ Examples include:
 * Window functions such as `LAG()` and `LEAD()`
 * Grouping and aggregation
 * CTE-based analysis
-
-Example business question:
-
-```sql
-SELECT
-    pickup_hour,
-    COUNT(*) AS total_trips,
-    SUM(total_amount) AS total_revenue,
-    AVG(total_amount) AS avg_fare,
-    AVG(tip_amount) AS avg_tip,
-    AVG(trip_duration_min) AS avg_trip_duration
-FROM taxi_data
-GROUP BY pickup_hour
-ORDER BY pickup_hour;
-```
-
 ---
 
 # 🔹 8. Machine Learning — Fare Prediction
