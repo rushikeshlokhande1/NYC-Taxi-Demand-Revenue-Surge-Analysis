@@ -7,6 +7,9 @@ This project analyzes **NYC Yellow Taxi trip data** to understand taxi demand, r
 The analysis covers approximately **232K taxi trips** and combines **Python, SQL, Power BI, and Machine Learning** to perform data cleaning, feature engineering, exploratory analysis, business intelligence, surge-pricing simulation, and revenue prediction.
 
 ---
+## Official Dataset Source
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 ## 🎯 Business Objectives
 
