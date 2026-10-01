@@ -307,36 +307,6 @@ Model Evaluation
        ↓
 Business Insights
 ```
-
----
-
-# 📁 Project Structure
-
-```text
-NYC-Taxi-Demand-Revenue-Analysis/
-│
-├── data/
-│   └── taxi_dataset.csv
-│
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── exploratory_analysis.ipynb
-│   └── machine_learning.ipynb
-│
-├── sql/
-│   └── taxi_analysis.sql
-│
-├── powerbi/
-│   └── NYC_Taxi_Analysis.pbix
-│
-├── images/
-│   ├── demand_revenue_dashboard.png
-│   ├── location_revenue_dashboard.png
-│   └── surge_pricing_dashboard.png
-│
-└── README.md
-```
-
 ---
 
 # 🚀 Skills Demonstrated
